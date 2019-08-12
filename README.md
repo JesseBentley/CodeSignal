@@ -4,5 +4,5 @@
 <h3><b>In Progress:</b></h3>
 <list>
   <li>Arcade: The Journey Begins - Python</li>
-  <li>Daily Challenges: Python</li>
+  <li>Daily Challenges - Python</li>
 <list>
