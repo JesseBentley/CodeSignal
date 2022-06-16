@@ -13,6 +13,5 @@ def matrixElementsSum(matrix):
                 break
             else:
                 total += matrix[i][j]
-    else:
-        return total
+return total
 
